@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\UberProject\bin\Debug\netcoreapp3.1\UberProject.exe
+C:\Users\Dark_Cheedar\Desktop\UberProject\bin\Debug\netcoreapp3.1\UberProject.deps.json
+C:\Users\Dark_Cheedar\Desktop\UberProject\bin\Debug\netcoreapp3.1\UberProject.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\UberProject\bin\Debug\netcoreapp3.1\UberProject.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\UberProject\bin\Debug\netcoreapp3.1\UberProject.dll
+C:\Users\Dark_Cheedar\Desktop\UberProject\bin\Debug\netcoreapp3.1\UberProject.pdb
+C:\Users\Dark_Cheedar\Desktop\UberProject\obj\Debug\netcoreapp3.1\UberProject.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\UberProject\obj\Debug\netcoreapp3.1\UberProject.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\UberProject\obj\Debug\netcoreapp3.1\UberProject.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\UberProject\obj\Debug\netcoreapp3.1\UberProject.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\UberProject\obj\Debug\netcoreapp3.1\UberProject.dll
+C:\Users\Dark_Cheedar\Desktop\UberProject\obj\Debug\netcoreapp3.1\UberProject.pdb
+C:\Users\Dark_Cheedar\Desktop\UberProject\obj\Debug\netcoreapp3.1\UberProject.genruntimeconfig.cache
