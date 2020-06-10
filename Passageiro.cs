@@ -1,6 +1,6 @@
 namespace UberProject
 {
-    public class Passageiro
+    public class Passageiro 
     {
     public string Nome { get; set; }        
     private string login = "Usuario123@gmail.com";
@@ -19,7 +19,19 @@ namespace UberProject
         return false;
         }public void Logout(){
 
-            TokenLogin = "";
+            TokenLogin = "";}
+
+        public string ProcurandoMotorista(){
+
+            System.Console.WriteLine("Procurando motoristas disponíveis...");
+
+            return "Motorista encontrado! ";
+        }
+        public string Pagar( string statusCorrida ){
+            if(statusCorrida == "Finalizado"){
+                return "Pagamento efetuado";
+            }
+            return "Pagamento pendente pois a corrida não foi finalizada";
         }
     }
 }
